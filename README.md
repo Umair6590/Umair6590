@@ -1,4 +1,4 @@
-[![MasterHead](https://play-lh.googleusercontent.com/Q2O7rhy3KYwWkE8LHGF6kkKet5e3qmFohaFPYyUMGaO4aF1r7PSPQlv4O2-sYD_yznI=w7680-h4320)]
+![MasterHead](https://play-lh.googleusercontent.com/Q2O7rhy3KYwWkE8LHGF6kkKet5e3qmFohaFPYyUMGaO4aF1r7PSPQlv4O2-sYD_yznI=w7680-h4320)
 <h1 align="center">Hi 👋, I'm Muhammad Umair</h1>
 <h3 align="center">A passionate full stack developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  />
